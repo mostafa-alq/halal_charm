@@ -1,2 +1,3 @@
 # HalalCharm (patent pending)
-Ever wanted to code but you weren't sure if the products were halal or not? With this simple yet effective IDE, look no further.
+
+Basic skeleton of an IDE, I aim to add more functionality to this and I also aim for it to work with the stack-based language I have created already.
